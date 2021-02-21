@@ -15,14 +15,14 @@ input{
 }
 
 ul{
-   display: flex;
+   
     list-style:none;
     flex-wrap: wrap;
 }
 
 
 li{
-   
+   float: left;
     width: 50%;
 }
 
